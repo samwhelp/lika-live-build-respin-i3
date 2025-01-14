@@ -37,6 +37,17 @@ rofi
 
 
 ##
+## ## Package / Window Manager / Openbox
+##
+
+## > install openbox for rescue
+openbox
+obconf
+
+
+
+
+##
 ## > install `obsession` for `obsession-exit`, `obsession-logout` , `xdg-autostart`
 ##
 
